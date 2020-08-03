@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Hala-Madrid/static/css/main.40bbff45.chunk.css",
+    "main.js": "/Hala-Madrid/static/js/main.49549d80.chunk.js",
+    "main.js.map": "/Hala-Madrid/static/js/main.49549d80.chunk.js.map",
+    "runtime-main.js": "/Hala-Madrid/static/js/runtime-main.4484c361.js",
+    "runtime-main.js.map": "/Hala-Madrid/static/js/runtime-main.4484c361.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/Hala-Madrid/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.27ead5eb.chunk.js": "/Hala-Madrid/static/js/2.27ead5eb.chunk.js",
+    "static/js/2.27ead5eb.chunk.js.map": "/Hala-Madrid/static/js/2.27ead5eb.chunk.js.map",
+    "index.html": "/Hala-Madrid/index.html",
+    "precache-manifest.7a17a70ee807c43f30aade3a32980de5.js": "/Hala-Madrid/precache-manifest.7a17a70ee807c43f30aade3a32980de5.js",
+    "service-worker.js": "/Hala-Madrid/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/Hala-Madrid/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.40bbff45.chunk.css.map": "/Hala-Madrid/static/css/main.40bbff45.chunk.css.map",
+    "static/js/2.27ead5eb.chunk.js.LICENSE.txt": "/Hala-Madrid/static/js/2.27ead5eb.chunk.js.LICENSE.txt",
+    "static/media/cup.png": "/Hala-Madrid/static/media/cup.627ca6ce.png",
+    "static/media/jersey1.jpg": "/Hala-Madrid/static/media/jersey1.45d3b068.jpg",
+    "static/media/jersey2.jpg": "/Hala-Madrid/static/media/jersey2.3070823b.jpg",
+    "static/media/jersey3.jpg": "/Hala-Madrid/static/media/jersey3.e0e579f4.jpg",
+    "static/media/jersey4.jpg": "/Hala-Madrid/static/media/jersey4.e31b006d.jpg",
+    "static/media/jersey5.jpg": "/Hala-Madrid/static/media/jersey5.d6b503c1.jpg",
+    "static/media/jersey6.jpg": "/Hala-Madrid/static/media/jersey6.b3fee018.jpg",
+    "static/media/madrid.gif": "/Hala-Madrid/static/media/madrid.6167950c.gif",
+    "static/media/madrid.png": "/Hala-Madrid/static/media/madrid.6ca5a38a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4484c361.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.27ead5eb.chunk.js",
+    "static/css/main.40bbff45.chunk.css",
+    "static/js/main.49549d80.chunk.js"
+  ]
+}
